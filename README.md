@@ -37,5 +37,5 @@ Sistema de delivery em C com cadastro e autenticação de usuários, gerenciamen
 
 ## Contato
 
-[![LinkedIn])](https://www.linkedin.com/in/pedro-henrique-mota-cc/))
-[![Email] (pedrohenriquemota011@gmail.com)
+(https://www.linkedin.com/in/pedro-henrique-mota-cc/))
+(pedrohenriquemota011@gmail.com)
